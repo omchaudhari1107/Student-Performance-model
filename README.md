@@ -1,4 +1,4 @@
-# Student-Performance-model : 98.8% accurate
+# Student-Performance-model : 98.8% Accurate
 ### Must Insatll The Libarary befor use 😊
 ```
 pip install scikit-learn
